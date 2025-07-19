@@ -8,7 +8,7 @@ type: tech
 topics: ["figma", "mcp", "cursor", "生成ai", "frontend"]
 date: 2025-05-11
 AutoNoteMover: disable
-url: https://zenn.dev/estra/articles/figma-mcp-environment-memo
+url: https://zenn.dev/morimorihayashi/articles/figma-mcp-environment-memo
 aliases:
 ---
 
